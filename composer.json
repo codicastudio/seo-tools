@@ -1,10 +1,10 @@
 {
-  "name": "codicastudio/seotools",
+  "name": "codica-studio/seotools",
   "description": "A random Codica Studio package.",
   "keywords": [
       ""
   ],
-  "homepage": "https://github.com/codicastudio/seotools",
+  "homepage": "https://github.com/codica-studio/seotools",
   "license": "MIT",
   "authors": [
       {
