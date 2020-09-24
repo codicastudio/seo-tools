@@ -1,10 +1,10 @@
 {
-  "name": "codica-studio/seotools",
+  "name": "codicastudio/seo-tools",
   "description": "A random Codica Studio package.",
   "keywords": [
       ""
   ],
-  "homepage": "https://github.com/codicastudio/seotools",
+  "homepage": "https://github.com/codicastudio/seo-tools",
   "license": "MIT",
   "authors": [
       {
@@ -34,7 +34,7 @@
     }
   },
   "config": {
-    "preferred-install": "dist"
+    "preferred-install": "stable"
   },
   "extra": {
     "laravel": {
@@ -50,6 +50,6 @@
       }
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true
 }
